@@ -16,3 +16,8 @@ it require board1.txt to be present in the file and give the board2.txt in the c
 
 not mention board2.txt will cause error include it in the command line
 
+**********************
+
+8 Men Morris 
+**********************
+CS 6364 UTD 
